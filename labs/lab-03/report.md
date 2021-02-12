@@ -27,6 +27,7 @@
   origin/master
   origin/port-8081
 Gitstats says there is only 26335 lines of code and 41 contributors
+gource: ![gource](screenshots/gource.png)
 
 ### SMAB (From https://github.com/tsanford13/OSS-Labs/blob/master/labs/lab3/lab3.md)
 Number of Contributors: 2
@@ -83,3 +84,23 @@ gitstats: Lines: 21118
 Gitstats:
 The number of lines reported by gitstats is substaintially lower than that from the command line. 61159 lines vs 562692
 It also reported 25 authors compared to the 16 on the repo.
+
+### Shuttle Tracker (From https://github.com/christinekoul/oss-repo/blob/master/labs/lab-03/lab3.md)
+ * 33 contributors
+ * 62080 total lines of code
+ * first commit: https://github.com/wtg/shuttletracker/commit/3453b12cb6d53080a0967644eddf44111fef0c54
+ * latest commit: https://github.com/wtg/shuttletracker/commit/b98b319901c248df6b1daffe7782041914411b46
+ * 55 current branches
+ * 9 active branches:
+      * eta_refactored
+      * smooth-tracking-algorithm-2
+      * smooth-tracking-predict-light-stops
+      * update-headings
+      * shuttle-slide
+      * smooth-tracking
+      * feedback2
+      * update_Package
+      * smooth-tracking-predict-turns
+gitstats:
+ * 39 contributors (compared to 33)
+ * 52719 total lines of code (compared to 62080)
