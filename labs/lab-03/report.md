@@ -1,3 +1,24 @@
+## Part 1
+### Question 3
+```
+\documentclass{article}
+\begin{document}
+$$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}$$
+$$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\cdots}}}}$$
+\end{document}
+```
+### Question 4
+```
+\documentclass{article}
+\begin{document}
+$$H_4=\begin{vmatrix}
+1 & 1 & 1 & 1 \\
+-1 & 1 & -1 & 1 \\
+-1 & -1 & 1 & 1 \\
+1 & -1 & -1 & 1
+\end{vmatrix}$$
+\end{document}
+```
 
 ## Part 2
 ### OpenCircuits
