@@ -362,9 +362,9 @@ if(HAVE_LOG AND HAVE_EXP)
 endif()
 ```
 With mysqrt:
-![Tutorial Output](screenshots/step4-mysqrt.png)
+![Tutorial Output](screenshots/step5-mysqrt.png)
 With sqrt:
-![Tutorial Output](screenshots/step4-sqrt.png)
+![Tutorial Output](screenshots/step5-sqrt.png)
 ## Part 2
 Makefile
 ```
