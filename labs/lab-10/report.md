@@ -8,16 +8,16 @@ For today's lab in our open source software class, we are required to write a bl
 
 ## Checkpoint 1
 
-![Screenshot](1.png)
+![Screenshot](screenshots/1.png)
 
 ## Checkpoint 2
 
-![Screenshot](2.png)
+![Screenshot](screenshots/2.png)
 
 ## Checkpoint 3
 
 find() gets the first 20 queries
 findOne() gets the first query
 The other finds look for entries with those properties
-![Screenshot](3.png)
-![Screenshot](3-2.png)
+![Screenshot](screenshots/3.png)
+![Screenshot](screenshots/3-2.png)
