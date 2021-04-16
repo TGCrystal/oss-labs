@@ -36,3 +36,23 @@ Converted 2:
 ![Original 3](https://media.gq-magazine.co.uk/photos/5f3a8deeffe32218efca5004/master/w_1000,c_limit/20200817-jeans-04.jpg)
 Converted 3:
 ![Converted 3](screenshots/3out.jpg)
+
+Results:
+```
+[8.1886184e-01 2.2001367e-03 2.2733854e-02 1.6532317e-02 1.4674147e-03
+ 2.2012132e-04 1.3721137e-01 4.3497460e-07 6.9461740e-04 7.7907083e-05]
+0
+T-shirt/top
+
+[1.8623037e-02 1.3481029e-08 7.8170741e-01 1.9725940e-05 1.5569544e-01
+ 1.6407732e-10 4.3695562e-02 4.1275434e-12 2.5875791e-04 4.9840371e-10]
+2
+Pullover
+
+[9.9001091e-04 9.9817932e-01 8.3937361e-05 6.5728743e-04 6.6052038e-05
+ 3.9046014e-10 2.3252127e-05 2.2022928e-14 1.2553251e-07 2.1471326e-10]
+1
+Trouser
+```
+
+Looks like the only one it got wrong was the coat. It probably got confused by the drawstring, since that is uncommon on coats but common on pullovers.
