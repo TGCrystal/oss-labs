@@ -27,12 +27,12 @@ Screenshot:
 Original 1:
 ![Original 1](https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199879943/Ramen-Panda-tahiti-blue-light-t-shirt-teeturtle-full-21-1000x1000.jpg)
 Converted 1:
-![Converted 1](1out.jpg)
+![Converted 1](screenshots/1out.jpg)
 
 ![Original 2](https://ae01.alicdn.com/kf/H578ae5e36bde4eed97f507afb55e17f5Z/2020-New-Waterproof-Winter-Jacket-Men-Hoodied-Parka-Men-Warm-Winter-Coat-Men-Thicken-Zipper-Camouflage.jpg_Q90.jpg_.webp)
 Converted 2:
-![Converted 2](2out.jpg)
+![Converted 2](screenshots/2out.jpg)
 
 ![Original 3](https://media.gq-magazine.co.uk/photos/5f3a8deeffe32218efca5004/master/w_1000,c_limit/20200817-jeans-04.jpg)
 Converted 3:
-![Converted 3](3out.jpg)
+![Converted 3](screenshots/3out.jpg)
